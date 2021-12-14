@@ -10,4 +10,4 @@ Terminology
 - clone
 - repo = repository
 - push
-- staging committing
+- staging & committing
